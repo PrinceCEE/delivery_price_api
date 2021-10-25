@@ -1,0 +1,48 @@
+const routes = [
+  [
+    "IKEJA",
+    "MARYLAND",
+    "ILUPEJU",
+    "PALMGROOVE",
+    "JIBOWU",
+    "YABA",
+    "SURULERE",
+  ],
+  ["OSHODI", "ISOLO", "OKOTA"],
+  ["AMUWO", "FESTAC", "SATELITE"],
+  ["APAPA", "TRADE FAIR", "OJO ALABA"],
+  ["OGUDU", "KETU", "MAGODO", "OMOLE", "OJODU", "OGBA", "AGEGE"],
+  [
+    "IJU",
+    "ISHAGA",
+    "ABULE EGBA",
+    "ALIMOSHO",
+    "EJIGBO",
+    "IKOTUN",
+    "IGANDO",
+  ],
+  ["MARINA", "LAGOS ISLAND", "IKOYI", "VI"],
+  ["LEKKI PH 1", "ELEGUSHI", "JAKANDE", "AGUNGI", "CHEVRON"],
+  [
+    "IKOTA",
+    "VGC",
+    "AJAH",
+    "ABRAHAM ADESANYA",
+    "BADORE",
+    "SANGOTEDO",
+    "AWOYAYA",
+  ],
+  ["IKORODU"],
+  [
+    "ELEKO",
+    "EPE",
+    "AGBARA",
+    "BADAGRY",
+    "DANGOTE REFINARY",
+    "REDEEM CAMP",
+    "MOWE",
+    "IBAFO",
+  ],
+];
+
+module.exports = routes;
